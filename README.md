@@ -1,4 +1,4 @@
-#Predictive Risk Analytics: Consumer Classification &amp; Forecasting
+Predictive Risk Analytics: Consumer Classification &amp; Forecasting
 
 Project Description:
 
